@@ -1,0 +1,20 @@
+@media (max-width: 1199px) and (min-width: 769px) {
+
+}
+
+
+
+#navbar {
+position: absolute;
+right: 200px;
+list-style-type: none;
+}
+
+.main-section {
+  font-family: Arial;
+
+}
+
+.main-section header {
+  font-weight: bold;
+}
